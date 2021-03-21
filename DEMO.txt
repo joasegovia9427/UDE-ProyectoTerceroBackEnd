@@ -1,0 +1,38 @@
+==> Compartir sonido en zoom
+==> Mostrar que no esta la base de datos creada
+==> Crear la base
+==> Validar que la base se creo
+==> Levantar el servidor central
+==> Descomprimir las 2 webapps (front y websocket)
+==> Pasarlas al tomcat
+==> Ejecutar Tomcat ver que estan las webapps
+==> Abrir incognito y mostrar las 2 ventanas
+==> Registrar 2 usuarios
+==> Verificar en base
+==> Login de los 2 usuarios
+
+==> ajustar limite de combustible para la prueba
+
+==> Crear partida nueva y de la otra ventana unirse a partida nueva
+==> Entrar los 2, validar que queden con colores diferntes…
+==> Jugar::
+Mostrar movimiento de aviones,
+Cambio de altura, 
+Disparo,
+Bomba y destruccion de elementos enemigo,
+Cambio en el tablero al tirar bomba, 
+Movimiento autmatico de artilleros,
+Ver disminucion de combustble y tablero en rojo, 
+Recuparacion de bomba y combustible al pasar por pista en z=0, 
+Autodestruccion con tecla N, a
+Alerta de 1 avion antes de perder… 
+
+==> pausa, y ejecutar un guardar
+==> recuperar partidas
+==> el primero entra como creador y el segundo entra como invitado a una partida guardada con el id
+==> ver que la cantidad de aviones y un el elemento no se recupero porque se habia destruido y luego ejecutar una victoria con autodestruccion de un lado a ver si dice perdite del otro
+==> salen y vuelven al panel
+==> ver datos reflejados en base, abrir el mysql
+
+==> recuperar partida
+==> vista lateral
